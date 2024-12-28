@@ -1,10 +1,13 @@
-# Blood-Banking-Management-Application
-The persons who like to donate blood registers in my site. The persons in need of
+<h1>Blood-Banking-Management-Application</h1>
+
+<p>The persons who like to donate blood registers in my site. The persons in need of
 blood searches for the persons having the same blood group and within the city. If he
 found a donor in his city then he gets the total details of the donor, if he doesn’t find
 any donor then he is given the contact numbers and addresses of the Life Saving
 Contact Persons for major cities. In this project we use JAVA and MySQL and it
-contains 3 modules i.e. Admin, Donor, User (Patient).
+contains 3 modules i.e. Admin, Donor, User (Patient).</p>
+
+<h2>Screenshot's </h2>
 
 ![Screenshot 2024-12-29 022834](https://github.com/user-attachments/assets/e9a3195f-0895-4b38-9273-f81249c42f5d)
 
@@ -13,6 +16,8 @@ contains 3 modules i.e. Admin, Donor, User (Patient).
 ![Screenshot 2024-12-29 022919](https://github.com/user-attachments/assets/5d6d27a4-2987-42bb-81a0-44e117e0fab0)
 
 ![Screenshot 2024-12-29 023042](https://github.com/user-attachments/assets/245eac32-3885-43c0-965b-e6eec480337f)
+
+<h2>Final Report</h2>
 
 ![BBDMS-Report_page-0024](https://github.com/user-attachments/assets/74c76af1-166c-4f4e-9c89-347f4422c6e9)
 
