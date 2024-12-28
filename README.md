@@ -1,4 +1,4 @@
-<h1>Blood-Banking-Management-Application</h1>
+<h1>Blood-Banking-Management-System</h1>
 
 <p>The persons who like to donate blood registers in my site. The persons in need of
 blood searches for the persons having the same blood group and within the city. If he
